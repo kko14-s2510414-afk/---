@@ -1,0 +1,19 @@
+.fuckingyourname p {
+    color: rgb(255, 255, 254);
+}
+
+#op{
+    font-size: 100px; /*id 하는법*/
+   align-items: center;
+    justify-content: center;
+}
+body{
+    background-color: rgb(95, 47, 47);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body div h1{
+color: rgb(181, 255, 170);
+font-size: medium;
+}
